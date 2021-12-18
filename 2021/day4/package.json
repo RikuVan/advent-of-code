@@ -1,0 +1,17 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "module": true,
+  "scripts": {
+    "start": "tsm index.ts"
+  },
+  "author": "Richard Van Camp",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "tsm": "^2.2.1",
+    "typescript": "^4.5.2"
+  }
+}

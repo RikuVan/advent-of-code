@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+src/**/*.txt
+node_modules
+**.beam
+.history
+/out/
+erl_crash.dump
